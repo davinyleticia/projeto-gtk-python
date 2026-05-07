@@ -13,7 +13,7 @@ projeto-gtl-python/
 
 ```
 
-Os arquivos __init__.py podem ficar vazios. Eles servem apenas para o Python reconhecer as pastas como módulos importáveis.
+Os arquivos `__init__.py` podem ficar vazios. Eles servem apenas para o Python reconhecer as pastas como módulos importáveis.
 
 # Arquitetura do Projeto (MVC)
 
